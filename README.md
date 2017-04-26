@@ -1,4 +1,8 @@
 
+<img src="https://cloud.githubusercontent.com/assets/156867/25413171/0353ab90-29dd-11e7-8e50-d60d41f61fcf.png" width="180" height="195" title="Wikimedia Logo"/>
+
+```
+
           o88o
          888888
     o.   888888   .o
@@ -10,3 +14,4 @@
   'WWW  "MM  MM"  WWW'
     "WWWo.    .oWWW"
       ""WWWWWWWW""
+```
